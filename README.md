@@ -84,12 +84,6 @@ Suggested assets:
 * AutoRoute
 * Dio
 
-### Backend & Services
-
-* REST APIs
-* Node.js
-* MySQL
-* Firebase Messaging
 
 ### Engineering Practices
 
